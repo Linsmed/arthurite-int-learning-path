@@ -65,3 +65,14 @@ to double sure that this user does not have access to perform any operation on S
 
 
 - Attach the policy just created to it,then click on create user group
+
+- check the user added to the group
+![alt text](image-17.png)
+
+![alt text](image-18.png)
+
+- Try and create s3 bucket using this user to ensure the permission granted is effective
+
+![alt text](image-19.png)
+
+![alt text](image-20.png)
